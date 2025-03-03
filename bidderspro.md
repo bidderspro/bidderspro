@@ -1,6 +1,5 @@
 # Welcome to BiddersPro 🚀
 
-![BiddersPro Logo](https://your-logo-url.com) *(Replace with actual logo URL)*
 
 ## About Us
 BiddersPro is a cutting-edge platform dedicated to streamlining bidding and procurement processes. Our mission is to empower businesses with innovative technology that enhances efficiency, transparency, and competitiveness in the marketplace.
